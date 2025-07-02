@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro&display=swap");
+
+body{
+  background-color: #e5e5e5;
+  margin: 10px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
