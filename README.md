@@ -1,4 +1,3 @@
-
 # Requisitos
 
 - PHP 8.4
@@ -19,4 +18,5 @@
 - php artisan migrate
 - php artisan serve
 - npm run dev
+- acesse http://localhost:8000/feed
 
